@@ -94,6 +94,14 @@
 				dayOfWeek: [
 					"日", "一","二","三","四","五","六"
 				]
+			},
+			is:{ // Icelandic
+				months: [
+					"Janúar", "Febrúar", "Mars", "Apríl", "Maí", "Júní", "Júĺí", "Ágúst", "September", "Október", "Nóvember", "Desember"
+				],
+				dayOfWeek: [
+					"Sun", "Mán", "Þri", "Mið", "Fim", "Fös", "Lau"
+				]
 			}
 		},
 		value:'',
